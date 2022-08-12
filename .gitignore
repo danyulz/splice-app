@@ -55,6 +55,9 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+#aws
+keys.js
+
 # BUCK
 buck-out/
 \.buckd/

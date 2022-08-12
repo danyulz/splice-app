@@ -1,4 +1,4 @@
-import { aws } from "./keys"
+import { aws } from "../keys";
 
 
 const bucket_config = (media_type: "mov" | "jpg", metadata: object) => {
